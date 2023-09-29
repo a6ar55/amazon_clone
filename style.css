@@ -1,0 +1,164 @@
+*{
+    margin: 0px;
+    font-family: arial;
+    padding: 0px;
+}
+body{
+    margin:0px;
+
+}
+
+.top-nav{
+    margin-top: 0px;
+}
+.amazonin{
+    padding-left: 10px;
+    height: 45px;
+    padding-top: 10px;
+    width:10%;
+    align-items: center;
+
+}
+.navbar-1{
+    width: 100%;
+    display: inline-flex;
+    background-color:#0F1111;
+    align-items: center;
+    height: 60px;
+    justify-content: space-evenly;
+
+}
+.location{
+    padding-top: 10px;
+    height: 44px;
+    width: 10%;
+    align-items: center;
+    color:white;
+    padding-left: 10px;
+
+}
+.location2{
+    display: flex;
+    padding-left: 2px;
+    align-items: center;
+}
+.location .text1{
+    padding-left: 22px;
+    font-size: 13px;
+}
+.location2 p{
+    padding-left: 8px;
+    font-size:18px;
+}
+.searchbar{
+    padding: 10px;
+
+    height: 35px;
+    align-items: center;
+    display: flex;
+    width: 40%;
+    
+}
+.searchbar:hover{
+    border-radius: 2px solid yellow;
+}
+.border{
+    border: 1px solid transparent;
+    
+
+}
+.border:hover{
+    border: 1.5px solid white;
+    border-radius: 3px;
+}
+.sb1,.sb2,.sb3{
+padding: 0px;
+height: 40px;
+
+border: none;
+
+}
+.sb3{
+    font-size: 20px;
+
+
+}
+.sb1{
+    width: 35px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: rgb(226, 229, 231);
+}
+.sb2{
+    width:400px;
+}
+
+.sbicon{
+    height: 20px;
+    width: 30px;
+    align-items: center;
+    display: flex;
+    padding-top: 20px;
+    padding-left:10px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    
+    background-color: rgb(234, 177, 46);
+}
+.lang{
+    width: 5%;
+    color:white;
+    align-items: center;
+    display: flex;
+    height:58px;
+    padding-left: 10px;
+
+}
+.signin{
+    width: 10%;
+    padding-top: 10px;
+    height: 46px;
+    align-items: center;
+    color:white;
+    padding-left: 10px;
+
+}
+.si2{
+    font-size: 14px;
+    display: flex;
+}
+.textsing{
+    font-size: 13px;
+}
+.orders{
+    padding-top: 10px;
+    width: 10%;
+    height: 46px;
+    padding-left: 10px;
+    color: white;
+    align-items: center;
+
+    
+}
+.ord1{
+    font-size: 13px;
+}
+.ord2{
+    font-size: 15px;
+}
+.cart{
+    width: 7%;
+    padding-left: 10px;
+    display: flex;
+    height: 58px;
+    align-items: center;
+    color: white;
+}
+.carttext{
+
+    font-size: 15px;
+}
+.carticon{
+
+    color: white;
+}
